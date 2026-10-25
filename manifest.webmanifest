@@ -1,0 +1,35 @@
+{
+ "name": "كلمة ومرح | LexiQuest",
+ "short_name": "كلمة ومرح",
+ "description": "لعبة كلمات متقاطعة بالعربي والإنجليزي",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0e2433",
+ "theme_color": "#0e2433",
+ "categories": [
+  "games",
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
